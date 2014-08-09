@@ -1,3 +1,3 @@
-#!/bin/bash
+#!/usr/bin/env python
 
-echo "lalal"
+print "lalala"
